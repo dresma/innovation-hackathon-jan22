@@ -1,0 +1,31 @@
+export const FontFamily = {
+    OBJECTIVITY_BLACK: 'Objectivity-Black',
+    OBJECTIVITY_MEDIUM: 'Objectivity-Medium',
+    OBJECTIVITY_REGULAR: 'Objectivity-Regular',
+}
+
+export const ColorConstants = {
+    PRIMARY:"#FB2B3A",
+    SECONDARY:"#EB2E83",
+    CLEAR: 'transparent',
+    WHITE: 'white',
+    BLACK: 'black',
+    APP_PINK:'#F03750',
+    APP_RED: '#FF5A5F',
+    APP_GREEN: '#30C362',
+    TEXT_COLOR: '#292A31',
+    TEXT_COLOR_GREY: '#7B7B7B',
+    TEXT_COLOR_LIGHT_GREY:'#8A8A8A',
+    TEXT_COLOR_RED: '#FF5A5F',
+    TEXT_COLOR_BROWN:'#7C364F',
+    TEXT_COLOR_GREEN:'#30C362',
+    TEXT_COLOR_BLUE_DARK: '#1C7490',
+    TEXT_COLOR_BLUE_LIGHT: '#208EAF',
+    BORDER_COLOR_GREY: '#D7D7D7',
+    BORDER_COLOR_GREY_2: '#ECECEC',
+    TAB_COLOR_GREY: '#A6A6A6',
+    TAB_COLOR_SELECTED: '#FF5A5F',
+    FIELD_BG_GREY: '#F3F3F3',
+    LIGHT_PINK:'#FFE9F0',
+    TEXT_GREEN:'#2B829A',
+};
